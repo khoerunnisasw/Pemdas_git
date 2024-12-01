@@ -1,3 +1,3 @@
 print("Khoerunnisa")
 print("Somawijaya")
-print("hehe")
+print("lah")
