@@ -72,3 +72,5 @@ for lokasi, detail in data_panen.items():
         print(f"Lokasi {detail['nama_lokasi']} memerlukan perhatian khusus.")
     else:
         print(f"Lokasi {detail['nama_lokasi']} dalam kondisi baik.")
+
+print("Berada di branch Baru")
