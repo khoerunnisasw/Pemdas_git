@@ -1,2 +1,1 @@
 print("Khoerunnisa")
-print("somawijaya")
